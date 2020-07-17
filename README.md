@@ -3,6 +3,18 @@ A repo containing several python scripts that allow you to create sitemaps, and 
 
 There are currently three scripts available to the user.
 
+## Requirements
+You will need python three in order to use this repo. 
+
+## Setup
+1. clone the repo to your local computer ```git clone git@github.com:emmadickson/swissarmy-site.git``` or download the code by clicking [here](https://github.com/emmadickson/swissarmy-site/archive/master.zip)
+
+2. Install the requirements ``` pip3 install -r requirements.txt ```
+
+3. Run whatever script you like
+
+## Description of the scripts
+
 ### extract_folder
   This creates a general_info.json file that will list all of the file types found in a given folder and their corresponding locations. 
   
